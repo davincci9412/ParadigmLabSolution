@@ -1,0 +1,7 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="m0 0l11 0l0 2l-9 0l0 9l-2 0z" fill="#e55d1f"/>
+    <path d="m24 0l-11 0l0 2l9 0l0 9l2 0z" fill="#8dc645"/>
+    <path d="m0 24l11 0l0 -2l-9 0l0 -9l-2 0z" fill="#6ac7b2"/>
+    <path d="m24 24l-11 0l0 -2l9 0l0 -9l2 0z" fill="#45c4e4"/>
+    <text x="8" y="15" fill="#f9b20f" font-family="Arial" font-size="12px">P</text>
+</svg>
